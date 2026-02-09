@@ -1,5 +1,10 @@
 # Hi 👋, I'm Anjali Minakshi  
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?lines=Frontend+Developer;MERN+Stack+Developer;Problem+Solver;Learning+Every+Day&center=true&width=600" />
+</p>
+
+
 ### 🚀 Computer Science Student | AI-ML | FullStack and Software Development Enthusiast
 
 - 🌱 Learning something new every day  
