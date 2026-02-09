@@ -14,7 +14,7 @@
 
 ## 🛠 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,mongodb,sql,python,git,github)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,mongodb,python,git,github,ollama)
 
 ## 💡 About Me
 
