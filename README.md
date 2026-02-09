@@ -1,8 +1,7 @@
 # Hi 👋, I'm Anjali Minakshi  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Frontend+Developer;Java+Developer;Problem+Solver;Data+Mining;Enthusiast+Learner&center=true&width=600&size=24
-&color=E91E63" />
+  <img src="https://readme-typing-svg.demolab.com?lines=Frontend+Developer;Java+Developer;Problem+Solver;Data+Mining;Enthusiast+Learner&center=true&width=600&size=24" />
 </p>
 
 
