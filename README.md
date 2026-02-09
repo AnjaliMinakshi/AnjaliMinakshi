@@ -1,4 +1,4 @@
-# Hi 👋, I'm Anjali Minakshi  
+<img width="1178" height="937" alt="image" src="https://github.com/user-attachments/assets/2cd7f099-1ee9-4495-b512-06375efcf6aa" /># Hi 👋, I'm Anjali Minakshi  
 
 ### 🚀 Computer Science Student | AI-ML | FullStack and Software Development Enthusiast
 
@@ -6,21 +6,12 @@
 - 💻 Love building clean UI and logical systems  
 - 🎯 Goal: Become a skilled software engineer
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AnjaliMinakshi&show_icons=true"
-    alt="GitHub stats"
-  />
+  <img src="https://streak-stats.demolab.com?user=AnjaliMinakshi" />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaliMinakshi&layout=compact"
-    alt="Top languages"
-  />
-</p>
 
 ## 🛠 Tech Stack
 
