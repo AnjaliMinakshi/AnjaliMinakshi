@@ -33,4 +33,21 @@
 - 💬 Ask me about **Java, Frontend, Data Warehouse, GitHub**  
 - ⚡ Fun fact: I enjoy debugging more than writing code 😄
 
+## 🚀 Featured Projects
+
+| Project Name | Description                   | Tech Used                        |
+|--------------|-------------------------------|----------------------------------|
+| BlogAI       | AI- Enhanced journal          | HTML, CSS, JS                    |
+| StockSphere  | Online Trading Platform       | HTML, CSS, Python, Flask, Ollama |
+| MediBot      | A personalized medical chatbot| HATML, CSS, JS, JSON             |
+| ETL          | Internship Data Migration     | Python, Jupyter Notebook         |
+| JAVA OOPS    | All java and oops learning    | JAVA                             |
+
+## 🤝 Connect With Me
+
+- 📧 Email: anjali.minakshi29@gmail.com  
+- 💼 LinkedIn:https://www.linkedin.com/in/anjali-minakshi-4583b7250/
+- 🌐 GitHub: https://github.com/AnjaliMinakshi
+
+
 
