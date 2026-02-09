@@ -8,9 +8,20 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AnjaliMinakshi&show_icons=true&theme=github_dark)
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=AnjaliMinakshi&show_icons=true&theme=github_dark&hide_border=true" 
+    alt="Anjali Minakshi GitHub stats" 
+  />
+</p>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaliMinakshi&layout=compact&theme=github_dark)
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaliMinakshi&layout=compact&theme=github_dark&hide_border=true" 
+    alt="Top languages used by Anjali Minakshi" 
+  />
+</p>
+
 
 ## 🛠 Tech Stack
 
