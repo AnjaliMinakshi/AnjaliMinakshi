@@ -20,7 +20,7 @@
 
 ## 🛠 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,mongodb,python,git,github,ollama,swift)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,mongodb,python,git,github,swift)
 
 ## 💡 About Me
 
